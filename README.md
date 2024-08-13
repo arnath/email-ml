@@ -1,21 +1,5 @@
 # email-ml
 
-[![PyPI - Version](https://img.shields.io/pypi/v/email-ml.svg)](https://pypi.org/project/email-ml)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/email-ml.svg)](https://pypi.org/project/email-ml)
-
------
-
-## Table of Contents
-
-- [Installation](#installation)
-- [License](#license)
-
-## Installation
-
-```console
-pip install email-ml
-```
-
-## License
-
-`email-ml` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+This repo is just some fiddling where I was playing around with my Gmail inbox data using a
+Python notebook. The notebook isn't done in a useful manner so I'm mostly saving it for posterity. 
+The email data is obviously not included here. 
